@@ -1,0 +1,21 @@
+MERANCANGAN DAN MENGELOLA JARINGAN KOMPUTER UNTUK SPESIALIS TEKNISI JARINGAN SISTEM KOMPUTER
+
+IT SUPPORT adalah seorang atau suatu tim yang bertugas menjadi pelaksana dan pemelihara sistem informasi teknologi dalam sebuah perusahaan yang bertanggung jawab dalam sistem intra-koneksi perusahaan, LAN,Internet,database.
+
+PERAN DAN TANGGUNG JAWAB:
+1. memeriksa dan memastikan semua komputer dapat digunakan
+2. memeriksa semua komputer terhubung jaringan
+3. memeriksa bahwa aplikasi yag digunkanan berjalan sebagaimana mestinya
+4. memastikan data user di dikompter tidak bisa dibaca atau diambil oleh orang tanpa izin
+5. memperbaiki komputer
+6. melakukan update OS secara berkala
+7. melakukan Update Data
+8. memastikan sistem pendukung seperti printer dan scanner dapat beroperasi
+9. membuat atau merangkai jaringan dan kabel data
+10.  mengisntal dan konfigurasi antivirus demi keamanan komputer
+
+VERSI ZOOM ANDORID HANYA 80MB
+VERSI ZOOM DESKTOP 200MB
+
+DROIDCAM untuk aplikasi desktop untuk menghubungkan kamera laptop atau pc dan kamerea hp
+
